@@ -9,3 +9,8 @@ Remplacer le token `clientId` dans le ficher `authConfig` avec un token de compt
 Build et lancer le projet node
 
 Voila!
+
+## Notes:
+
+Ce projet est en parti généré par Azure, qui se charge de completer la plupart des fichiers via les données du compte azure.
+La connexion est donc simple, et un README plus complet se trouve dans l'arborescence du projet
